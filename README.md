@@ -1,5 +1,7 @@
 # UDACITY-Data-Engineering-Capstone-Project
 
+#### My project code is all located in a file labeled etl.py
+
 The goal of this project is to take Immigration data pair it with average temperature and population counts grouped by city and state (where feasible). 
 Here is the main query I will run.
 Select average temperature, total population, Median age from fact table where city = ‘Salt Lake City’
